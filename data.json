@@ -8,7 +8,7 @@
     "name" : "Catston",
     "type" : "cat",
     "favFood" : ["tuna", "chicken", "<strong>Mice</strong>"],
-    "photo" : "http://placehold.it/75"
+    "photo" : "http://placehold.it/150"
     
     },
 
@@ -16,7 +16,7 @@
 
     "name" : "Fred",
     "type" : "dog",
-    "photo" : "http://placehold.it/75"
+    "photo" : "http://placehold.it/150"
     
     },
 
@@ -25,7 +25,7 @@
     "name" : "Kitty",
     "type" : "cat",
     "favFood" : ["chicken", "fish", "<strong>crunchies</strong>"],
-    "photo" : "http://placehold.it/75"
+    "photo" : "http://placehold.it/150"
     
     }
 
