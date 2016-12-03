@@ -1,36 +1,24 @@
-
-  {
- 
-  "pets" : [
-    
+{
+  "pets": [
     {
-
-    "name" : "Daisy",
-    "type" : "cat",
-    "favFood" : ["tuna", "chicken" "<strong>Mice</strong>"],
-    "photo" : "http://placehold.it/75"
-    
+      "name" : "Purrsloud",
+      "species" : "Cat",
+      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "birthYear" : 2016,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
-
     {
-
-    "name" : "Rose",
-    "type" : "dog",
-    "favFood" : ["bacon", "ice-cream" "<strong>Daisy</strong>"],
-    "photo" : "http://placehold.it/75"
-    
+      "name" : "Barksalot",
+      "species" : "Dog",
+      "birthYear" : 2008,
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
-
     {
-
-    "name" : "Ruby",
-    "type" : "cat",
-    "favFood" : ["chicken", "fish" "<strong>crunchies</strong>"],
-    "photo" : "http://placehold.it/75"
-    
+      "name" : "Meowsalot",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2012,
+      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
-
   ]
-
-  }
-
+}
