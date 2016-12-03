@@ -16,7 +16,6 @@
 
     "name" : "Fred",
     "type" : "dog",
-    "favFood" : ["bacon", "ice-cream", "<strong>Daisy</strong>"],
     "photo" : "http://placehold.it/75"
     
     },
